@@ -1,0 +1,7 @@
+C:\Users\yulia\source\repos\WordsGame\WordsGame\bin\Debug\WordsGame.exe.config
+C:\Users\yulia\source\repos\WordsGame\WordsGame\bin\Debug\WordsGame.exe
+C:\Users\yulia\source\repos\WordsGame\WordsGame\bin\Debug\WordsGame.pdb
+C:\Users\yulia\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.exe
+C:\Users\yulia\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.pdb
